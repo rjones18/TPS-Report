@@ -1,5 +1,5 @@
 # TPS-Report
-This code if run extracts employee information from a dictionary and put it into a csv file.
+This code if run extracts employee information from a dictionary and put it into a CSV file.
 
 Below is the TPS Report that was created:
 
